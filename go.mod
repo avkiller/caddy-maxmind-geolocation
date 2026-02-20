@@ -3,7 +3,7 @@ module github.com/avkiller/caddy-maxmind-geolocation
 go 1.25
 require (
 	github.com/caddyserver/caddy/v2 v2.10.2
-	github.com/oschwald/maxminddb-golang v2.1.1
+	github.com/oschwald/maxminddb-golang/v2 v2.1.1
 	go.uber.org/zap v1.27.1
 )
 
